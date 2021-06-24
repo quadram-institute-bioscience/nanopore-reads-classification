@@ -1,0 +1,69 @@
+study_accession	sample_accession	experiment_accession	run_accession	tax_id	scientific_name	fastq_ftp	submitted_ftp	sra_ftp
+PRJEB41184	SAMEA8698069	ERX5530590	ERR5888700	256318	metagenome	ftp.sra.ebi.ac.uk/vol1/fastq/ERR588/000/ERR5888700/ERR5888700.fastq.gz	ftp.sra.ebi.ac.uk/vol1/run/ERR588/ERR5888700/nc3_2hrs.fastq.gz	
+PRJEB41184	SAMEA8698070	ERX5530591	ERR5888701	256318	metagenome	ftp.sra.ebi.ac.uk/vol1/fastq/ERR588/001/ERR5888701/ERR5888701.fastq.gz	ftp.sra.ebi.ac.uk/vol1/run/ERR588/ERR5888701/nc5_2hrs.fastq.gz	
+PRJEB41184	SAMEA8698079	ERX5530592	ERR5888702	256318	metagenome	ftp.sra.ebi.ac.uk/vol1/fastq/ERR588/002/ERR5888702/ERR5888702.fastq.gz	ftp.sra.ebi.ac.uk/vol1/run/ERR588/ERR5888702/nc6_2hrs.fastq.gz	
+PRJEB41184	SAMEA8698071	ERX5530593	ERR5888703	256318	metagenome	ftp.sra.ebi.ac.uk/vol1/fastq/ERR588/003/ERR5888703/ERR5888703.fastq.gz	ftp.sra.ebi.ac.uk/vol1/run/ERR588/ERR5888703/nc7_2hrs.fastq.gz	
+PRJEB41184	SAMEA8698072	ERX5530594	ERR5888704	256318	metagenome	ftp.sra.ebi.ac.uk/vol1/fastq/ERR588/004/ERR5888704/ERR5888704.fastq.gz	ftp.sra.ebi.ac.uk/vol1/run/ERR588/ERR5888704/nc8_2hrs.fastq.gz	
+PRJEB41184	SAMEA8698073	ERX5530595	ERR5888705	256318	metagenome	ftp.sra.ebi.ac.uk/vol1/fastq/ERR588/005/ERR5888705/ERR5888705.fastq.gz	ftp.sra.ebi.ac.uk/vol1/run/ERR588/ERR5888705/nc10_2hrs.fastq.gz	
+PRJEB41184	SAMEA8698074	ERX5530596	ERR5888706	256318	metagenome	ftp.sra.ebi.ac.uk/vol1/fastq/ERR588/006/ERR5888706/ERR5888706.fastq.gz	ftp.sra.ebi.ac.uk/vol1/run/ERR588/ERR5888706/nc11_2hrs.fastq.gz	
+PRJEB41184	SAMEA8698075	ERX5530597	ERR5888707	256318	metagenome	ftp.sra.ebi.ac.uk/vol1/fastq/ERR588/007/ERR5888707/ERR5888707.fastq.gz	ftp.sra.ebi.ac.uk/vol1/run/ERR588/ERR5888707/nc13_2hrs.fastq.gz	
+PRJEB41184	SAMEA8698076	ERX5530598	ERR5888708	256318	metagenome	ftp.sra.ebi.ac.uk/vol1/fastq/ERR588/008/ERR5888708/ERR5888708.fastq.gz	ftp.sra.ebi.ac.uk/vol1/run/ERR588/ERR5888708/nc14_2hrs.fastq.gz	
+PRJEB41184	SAMEA8698077	ERX5530599	ERR5888709	256318	metagenome	ftp.sra.ebi.ac.uk/vol1/fastq/ERR588/009/ERR5888709/ERR5888709.fastq.gz	ftp.sra.ebi.ac.uk/vol1/run/ERR588/ERR5888709/nc15_2hrs.fastq.gz	
+PRJEB41184	SAMEA8698078	ERX5530600	ERR5888710	256318	metagenome	ftp.sra.ebi.ac.uk/vol1/fastq/ERR588/000/ERR5888710/ERR5888710.fastq.gz	ftp.sra.ebi.ac.uk/vol1/run/ERR588/ERR5888710/nc16_2hrs.fastq.gz	
+PRJEB41184	SAMEA8698350	ERX5530781	ERR5888891	1729361	lung metagenome	ftp.sra.ebi.ac.uk/vol1/fastq/ERR588/001/ERR5888891/ERR5888891.fastq.gz	ftp.sra.ebi.ac.uk/vol1/run/ERR588/ERR5888891/s1_2hrs.fastq.gz	
+PRJEB41184	SAMEA8698351	ERX5530782	ERR5888892	1729361	lung metagenome	ftp.sra.ebi.ac.uk/vol1/fastq/ERR588/002/ERR5888892/ERR5888892.fastq.gz	ftp.sra.ebi.ac.uk/vol1/run/ERR588/ERR5888892/s5_2hrs.fastq.gz	
+PRJEB41184	SAMEA8698352	ERX5530783	ERR5888893	1729361	lung metagenome	ftp.sra.ebi.ac.uk/vol1/fastq/ERR588/003/ERR5888893/ERR5888893.fastq.gz	ftp.sra.ebi.ac.uk/vol1/run/ERR588/ERR5888893/s8_2hrs.fastq.gz	
+PRJEB41184	SAMEA8698353	ERX5530784	ERR5888894	1729361	lung metagenome	ftp.sra.ebi.ac.uk/vol1/fastq/ERR588/004/ERR5888894/ERR5888894.fastq.gz	ftp.sra.ebi.ac.uk/vol1/run/ERR588/ERR5888894/s10_2hrs.fastq.gz	
+PRJEB41184	SAMEA8698354	ERX5530785	ERR5888895	1729361	lung metagenome	ftp.sra.ebi.ac.uk/vol1/fastq/ERR588/005/ERR5888895/ERR5888895.fastq.gz	ftp.sra.ebi.ac.uk/vol1/run/ERR588/ERR5888895/s11_2hrs.fastq.gz	
+PRJEB41184	SAMEA8698355	ERX5530786	ERR5888896	1729361	lung metagenome	ftp.sra.ebi.ac.uk/vol1/fastq/ERR588/006/ERR5888896/ERR5888896.fastq.gz	ftp.sra.ebi.ac.uk/vol1/run/ERR588/ERR5888896/s14_2hrs.fastq.gz	
+PRJEB41184	SAMEA8698356	ERX5530787	ERR5888897	1729361	lung metagenome	ftp.sra.ebi.ac.uk/vol1/fastq/ERR588/007/ERR5888897/ERR5888897.fastq.gz	ftp.sra.ebi.ac.uk/vol1/run/ERR588/ERR5888897/s16_2hrs.fastq.gz	
+PRJEB41184	SAMEA8698357	ERX5530788	ERR5888898	1729361	lung metagenome	ftp.sra.ebi.ac.uk/vol1/fastq/ERR588/008/ERR5888898/ERR5888898.fastq.gz	ftp.sra.ebi.ac.uk/vol1/run/ERR588/ERR5888898/s17_2hrs.fastq.gz	
+PRJEB41184	SAMEA8698358	ERX5530789	ERR5888899	1729361	lung metagenome	ftp.sra.ebi.ac.uk/vol1/fastq/ERR588/009/ERR5888899/ERR5888899.fastq.gz	ftp.sra.ebi.ac.uk/vol1/run/ERR588/ERR5888899/s18_2hrs.fastq.gz	
+PRJEB41184	SAMEA8698359	ERX5530790	ERR5888900	1729361	lung metagenome	ftp.sra.ebi.ac.uk/vol1/fastq/ERR588/000/ERR5888900/ERR5888900.fastq.gz	ftp.sra.ebi.ac.uk/vol1/run/ERR588/ERR5888900/s19_2hrs.fastq.gz	
+PRJEB41184	SAMEA8698360	ERX5530791	ERR5888901	1729361	lung metagenome	ftp.sra.ebi.ac.uk/vol1/fastq/ERR588/001/ERR5888901/ERR5888901.fastq.gz	ftp.sra.ebi.ac.uk/vol1/run/ERR588/ERR5888901/s20_2hrs.fastq.gz	
+PRJEB41184	SAMEA8698361	ERX5530792	ERR5888902	1729361	lung metagenome	ftp.sra.ebi.ac.uk/vol1/fastq/ERR588/002/ERR5888902/ERR5888902.fastq.gz	ftp.sra.ebi.ac.uk/vol1/run/ERR588/ERR5888902/s21_2hrs.fastq.gz	
+PRJEB41184	SAMEA8698362	ERX5530793	ERR5888903	1729361	lung metagenome	ftp.sra.ebi.ac.uk/vol1/fastq/ERR588/003/ERR5888903/ERR5888903.fastq.gz	ftp.sra.ebi.ac.uk/vol1/run/ERR588/ERR5888903/s25_2hrs.fastq.gz	
+PRJEB41184	SAMEA8698363	ERX5530794	ERR5888904	1729361	lung metagenome	ftp.sra.ebi.ac.uk/vol1/fastq/ERR588/004/ERR5888904/ERR5888904.fastq.gz	ftp.sra.ebi.ac.uk/vol1/run/ERR588/ERR5888904/s27_2hrs.fastq.gz	
+PRJEB41184	SAMEA8698364	ERX5530795	ERR5888905	1729361	lung metagenome	ftp.sra.ebi.ac.uk/vol1/fastq/ERR588/005/ERR5888905/ERR5888905.fastq.gz	ftp.sra.ebi.ac.uk/vol1/run/ERR588/ERR5888905/s28_2hrs.fastq.gz	
+PRJEB41184	SAMEA8698365	ERX5530796	ERR5888906	1729361	lung metagenome	ftp.sra.ebi.ac.uk/vol1/fastq/ERR588/006/ERR5888906/ERR5888906.fastq.gz	ftp.sra.ebi.ac.uk/vol1/run/ERR588/ERR5888906/s29_2hrs.fastq.gz	
+PRJEB41184	SAMEA8698366	ERX5530797	ERR5888907	1729361	lung metagenome	ftp.sra.ebi.ac.uk/vol1/fastq/ERR588/007/ERR5888907/ERR5888907.fastq.gz	ftp.sra.ebi.ac.uk/vol1/run/ERR588/ERR5888907/s30_2hrs.fastq.gz	
+PRJEB41184	SAMEA8698367	ERX5530798	ERR5888908	1729361	lung metagenome	ftp.sra.ebi.ac.uk/vol1/fastq/ERR588/008/ERR5888908/ERR5888908.fastq.gz	ftp.sra.ebi.ac.uk/vol1/run/ERR588/ERR5888908/s31_2hrs.fastq.gz	
+PRJEB41184	SAMEA8698368	ERX5530799	ERR5888909	1729361	lung metagenome	ftp.sra.ebi.ac.uk/vol1/fastq/ERR588/009/ERR5888909/ERR5888909.fastq.gz	ftp.sra.ebi.ac.uk/vol1/run/ERR588/ERR5888909/s33_2hrs.fastq.gz	
+PRJEB41184	SAMEA8698369	ERX5530800	ERR5888910	1729361	lung metagenome	ftp.sra.ebi.ac.uk/vol1/fastq/ERR588/000/ERR5888910/ERR5888910.fastq.gz	ftp.sra.ebi.ac.uk/vol1/run/ERR588/ERR5888910/s34_2hrs.fastq.gz	
+PRJEB41184	SAMEA8698370	ERX5530801	ERR5888911	1729361	lung metagenome	ftp.sra.ebi.ac.uk/vol1/fastq/ERR588/001/ERR5888911/ERR5888911.fastq.gz	ftp.sra.ebi.ac.uk/vol1/run/ERR588/ERR5888911/s35_2hrs.fastq.gz	
+PRJEB41184	SAMEA8698371	ERX5530802	ERR5888912	1729361	lung metagenome	ftp.sra.ebi.ac.uk/vol1/fastq/ERR588/002/ERR5888912/ERR5888912.fastq.gz	ftp.sra.ebi.ac.uk/vol1/run/ERR588/ERR5888912/s36_2hrs.fastq.gz	
+PRJEB41184	SAMEA8698372	ERX5530803	ERR5888913	1729361	lung metagenome	ftp.sra.ebi.ac.uk/vol1/fastq/ERR588/003/ERR5888913/ERR5888913.fastq.gz	ftp.sra.ebi.ac.uk/vol1/run/ERR588/ERR5888913/s37_2hrs.fastq.gz	
+PRJEB41184	SAMEA8698373	ERX5530804	ERR5888914	1729361	lung metagenome	ftp.sra.ebi.ac.uk/vol1/fastq/ERR588/004/ERR5888914/ERR5888914.fastq.gz	ftp.sra.ebi.ac.uk/vol1/run/ERR588/ERR5888914/s39_2hrs.fastq.gz	
+PRJEB41184	SAMEA8698374	ERX5530805	ERR5888915	1729361	lung metagenome	ftp.sra.ebi.ac.uk/vol1/fastq/ERR588/005/ERR5888915/ERR5888915.fastq.gz	ftp.sra.ebi.ac.uk/vol1/run/ERR588/ERR5888915/s40_2hrs.fastq.gz	
+PRJEB41184	SAMEA8698375	ERX5530806	ERR5888916	1729361	lung metagenome	ftp.sra.ebi.ac.uk/vol1/fastq/ERR588/006/ERR5888916/ERR5888916.fastq.gz	ftp.sra.ebi.ac.uk/vol1/run/ERR588/ERR5888916/s41_2hrs.fastq.gz	
+PRJEB41184	SAMEA8698376	ERX5530807	ERR5888917	1729361	lung metagenome	ftp.sra.ebi.ac.uk/vol1/fastq/ERR588/007/ERR5888917/ERR5888917.fastq.gz	ftp.sra.ebi.ac.uk/vol1/run/ERR588/ERR5888917/s42_2hrs.fastq.gz	
+PRJEB41184	SAMEA8698377	ERX5530808	ERR5888918	1729361	lung metagenome	ftp.sra.ebi.ac.uk/vol1/fastq/ERR588/008/ERR5888918/ERR5888918.fastq.gz	ftp.sra.ebi.ac.uk/vol1/run/ERR588/ERR5888918/s44_2hrs.fastq.gz	
+PRJEB41184	SAMEA8698378	ERX5530809	ERR5888919	1729361	lung metagenome	ftp.sra.ebi.ac.uk/vol1/fastq/ERR588/009/ERR5888919/ERR5888919.fastq.gz	ftp.sra.ebi.ac.uk/vol1/run/ERR588/ERR5888919/s45_2hrs.fastq.gz	
+PRJEB41184	SAMEA8698379	ERX5530810	ERR5888920	1729361	lung metagenome	ftp.sra.ebi.ac.uk/vol1/fastq/ERR588/000/ERR5888920/ERR5888920.fastq.gz	ftp.sra.ebi.ac.uk/vol1/run/ERR588/ERR5888920/s46_2hrs.fastq.gz	
+PRJEB41184	SAMEA8698380	ERX5530811	ERR5888921	1729361	lung metagenome	ftp.sra.ebi.ac.uk/vol1/fastq/ERR588/001/ERR5888921/ERR5888921.fastq.gz	ftp.sra.ebi.ac.uk/vol1/run/ERR588/ERR5888921/s49_2hrs.fastq.gz	
+PRJEB41184	SAMEA8698381	ERX5530812	ERR5888922	1729361	lung metagenome	ftp.sra.ebi.ac.uk/vol1/fastq/ERR588/002/ERR5888922/ERR5888922.fastq.gz	ftp.sra.ebi.ac.uk/vol1/run/ERR588/ERR5888922/s51_2hrs.fastq.gz	
+PRJEB41184	SAMEA8698382	ERX5530813	ERR5888923	1729361	lung metagenome	ftp.sra.ebi.ac.uk/vol1/fastq/ERR588/003/ERR5888923/ERR5888923.fastq.gz	ftp.sra.ebi.ac.uk/vol1/run/ERR588/ERR5888923/s52_2hrs.fastq.gz	
+PRJEB41184	SAMEA8698383	ERX5530814	ERR5888924	1729361	lung metagenome	ftp.sra.ebi.ac.uk/vol1/fastq/ERR588/004/ERR5888924/ERR5888924.fastq.gz	ftp.sra.ebi.ac.uk/vol1/run/ERR588/ERR5888924/s54_2hrs.fastq.gz	
+PRJEB41184	SAMEA8698384	ERX5530815	ERR5888925	1729361	lung metagenome	ftp.sra.ebi.ac.uk/vol1/fastq/ERR588/005/ERR5888925/ERR5888925.fastq.gz	ftp.sra.ebi.ac.uk/vol1/run/ERR588/ERR5888925/s55_2hrs.fastq.gz	
+PRJEB41184	SAMEA8698385	ERX5530816	ERR5888926	1729361	lung metagenome	ftp.sra.ebi.ac.uk/vol1/fastq/ERR588/006/ERR5888926/ERR5888926.fastq.gz	ftp.sra.ebi.ac.uk/vol1/run/ERR588/ERR5888926/s56_2hrs.fastq.gz	
+PRJEB41184	SAMEA8698386	ERX5530817	ERR5888927	1729361	lung metagenome	ftp.sra.ebi.ac.uk/vol1/fastq/ERR588/007/ERR5888927/ERR5888927.fastq.gz	ftp.sra.ebi.ac.uk/vol1/run/ERR588/ERR5888927/s59_2hrs.fastq.gz	
+PRJEB41184	SAMEA8698387	ERX5530818	ERR5888928	1729361	lung metagenome	ftp.sra.ebi.ac.uk/vol1/fastq/ERR588/008/ERR5888928/ERR5888928.fastq.gz	ftp.sra.ebi.ac.uk/vol1/run/ERR588/ERR5888928/s61_2hrs.fastq.gz	
+PRJEB41184	SAMEA8698388	ERX5530819	ERR5888929	1729361	lung metagenome	ftp.sra.ebi.ac.uk/vol1/fastq/ERR588/009/ERR5888929/ERR5888929.fastq.gz	ftp.sra.ebi.ac.uk/vol1/run/ERR588/ERR5888929/s62_2hrs.fastq.gz	
+PRJEB41184	SAMEA8698389	ERX5530820	ERR5888930	1729361	lung metagenome	ftp.sra.ebi.ac.uk/vol1/fastq/ERR588/000/ERR5888930/ERR5888930.fastq.gz	ftp.sra.ebi.ac.uk/vol1/run/ERR588/ERR5888930/s63_2hrs.fastq.gz	
+PRJEB41184	SAMEA8698390	ERX5530821	ERR5888931	1729361	lung metagenome	ftp.sra.ebi.ac.uk/vol1/fastq/ERR588/001/ERR5888931/ERR5888931.fastq.gz	ftp.sra.ebi.ac.uk/vol1/run/ERR588/ERR5888931/s64_2hrs.fastq.gz	
+PRJEB41184	SAMEA8698391	ERX5530822	ERR5888932	1729361	lung metagenome	ftp.sra.ebi.ac.uk/vol1/fastq/ERR588/002/ERR5888932/ERR5888932.fastq.gz	ftp.sra.ebi.ac.uk/vol1/run/ERR588/ERR5888932/s65_2hrs.fastq.gz	
+PRJEB41184	SAMEA8698401	ERX5531107	ERR5889217	1729361	lung metagenome	ftp.sra.ebi.ac.uk/vol1/fastq/ERR588/007/ERR5889217/ERR5889217.fastq.gz	ftp.sra.ebi.ac.uk/vol1/run/ERR588/ERR5889217/s1_24hrs.fastq.gz	
+PRJEB41184	SAMEA8698402	ERX5531108	ERR5889218	1729361	lung metagenome	ftp.sra.ebi.ac.uk/vol1/fastq/ERR588/008/ERR5889218/ERR5889218.fastq.gz	ftp.sra.ebi.ac.uk/vol1/run/ERR588/ERR5889218/s10_24hrs.fastq.gz	
+PRJEB41184	SAMEA8698403	ERX5531109	ERR5889219	1729361	lung metagenome	ftp.sra.ebi.ac.uk/vol1/fastq/ERR588/009/ERR5889219/ERR5889219.fastq.gz	ftp.sra.ebi.ac.uk/vol1/run/ERR588/ERR5889219/s11_24hrs.fastq.gz	
+PRJEB41184	SAMEA8698404	ERX5531110	ERR5889220	1729361	lung metagenome	ftp.sra.ebi.ac.uk/vol1/fastq/ERR588/000/ERR5889220/ERR5889220.fastq.gz	ftp.sra.ebi.ac.uk/vol1/run/ERR588/ERR5889220/s31_24hrs.fastq.gz	
+PRJEB41184	SAMEA8698413	ERX5531111	ERR5889221	1729361	lung metagenome	ftp.sra.ebi.ac.uk/vol1/fastq/ERR588/001/ERR5889221/ERR5889221.fastq.gz	ftp.sra.ebi.ac.uk/vol1/run/ERR588/ERR5889221/s34_24hrs.fastq.gz	
+PRJEB41184	SAMEA8698405	ERX5531112	ERR5889222	1729361	lung metagenome	ftp.sra.ebi.ac.uk/vol1/fastq/ERR588/002/ERR5889222/ERR5889222.fastq.gz	ftp.sra.ebi.ac.uk/vol1/run/ERR588/ERR5889222/s45_24hrs.fastq.gz	
+PRJEB41184	SAMEA8698406	ERX5531113	ERR5889223	1729361	lung metagenome	ftp.sra.ebi.ac.uk/vol1/fastq/ERR588/003/ERR5889223/ERR5889223.fastq.gz	ftp.sra.ebi.ac.uk/vol1/run/ERR588/ERR5889223/s49_24hrs.fastq.gz	
+PRJEB41184	SAMEA8698407	ERX5531114	ERR5889224	1729361	lung metagenome	ftp.sra.ebi.ac.uk/vol1/fastq/ERR588/004/ERR5889224/ERR5889224.fastq.gz	ftp.sra.ebi.ac.uk/vol1/run/ERR588/ERR5889224/s52_24hrs.fastq.gz	
+PRJEB41184	SAMEA8698408	ERX5531115	ERR5889225	1729361	lung metagenome	ftp.sra.ebi.ac.uk/vol1/fastq/ERR588/005/ERR5889225/ERR5889225.fastq.gz	ftp.sra.ebi.ac.uk/vol1/run/ERR588/ERR5889225/s54_24hrs.fastq.gz	
+PRJEB41184	SAMEA8698409	ERX5531116	ERR5889226	1729361	lung metagenome	ftp.sra.ebi.ac.uk/vol1/fastq/ERR588/006/ERR5889226/ERR5889226.fastq.gz	ftp.sra.ebi.ac.uk/vol1/run/ERR588/ERR5889226/s59_24hrs.fastq.gz	
+PRJEB41184	SAMEA8698410	ERX5531117	ERR5889227	1729361	lung metagenome	ftp.sra.ebi.ac.uk/vol1/fastq/ERR588/007/ERR5889227/ERR5889227.fastq.gz	ftp.sra.ebi.ac.uk/vol1/run/ERR588/ERR5889227/s61_24hrs.fastq.gz	
+PRJEB41184	SAMEA8698411	ERX5531118	ERR5889228	1729361	lung metagenome	ftp.sra.ebi.ac.uk/vol1/fastq/ERR588/008/ERR5889228/ERR5889228.fastq.gz	ftp.sra.ebi.ac.uk/vol1/run/ERR588/ERR5889228/s62_24hrs.fastq.gz	
+PRJEB41184	SAMEA8698412	ERX5531119	ERR5889229	1729361	lung metagenome	ftp.sra.ebi.ac.uk/vol1/fastq/ERR588/009/ERR5889229/ERR5889229.fastq.gz	ftp.sra.ebi.ac.uk/vol1/run/ERR588/ERR5889229/s63_24hrs.fastq.gz	
+PRJEB41184	SAMEA8698869	ERX5531470	ERR5889580	573	Klebsiella pneumoniae	ftp.sra.ebi.ac.uk/vol1/fastq/ERR588/000/ERR5889580/ERR5889580.fastq.gz	ftp.sra.ebi.ac.uk/vol1/run/ERR588/ERR5889580/kp2.fastq.gz	
+
